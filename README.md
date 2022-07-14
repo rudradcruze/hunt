@@ -1,5 +1,5 @@
 # hunt
-This projects is a simple website with multiple awesome beautiful section
+This projects is a simple website with multiple awesome beautiful section.
 
 # Technologies
 * <a href="https://en.wikipedia.org/wiki/HTML">HTML</a>
